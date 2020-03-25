@@ -128,4 +128,3 @@ $wgDefaultSkin = "timeless";
 # Add more configuration options below.
 wfLoadSkin( 'Timeless' );
 wfLoadSkin( 'pivot' );
-enableSemantics( 'lexlatlib.herokuapp.com' );
