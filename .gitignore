@@ -45,7 +45,6 @@ sftp-config.json
 /maintenance/.mwsql_history
 /maintenance/dev/data
 /AdminSettings.php
-/LocalSettings.php
 
 # Building & testing
 npm-debug.log
@@ -57,8 +56,6 @@ phpunit.xml
 .eslintcache
 
 # Composer
-/composer.lock
-/composer.local.json
 /composer.phar
 
 # MediaWiki UI documentation
