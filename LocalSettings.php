@@ -27,7 +27,7 @@ $wgMetaNamespace = "Lexicon_Latinum_Liberum";
 ## For more information on customizing the URLs
 ## (like /w/index.php/Page_title to /wiki/Page_title) please see:
 ## https://www.mediawiki.org/wiki/Manual:Short_URL
-$wgScriptPath = "/pagina";
+$wgScriptPath = "";
 
 ## The protocol and server name to use in fully-qualified URLs
 $wgServer = "https://lexlatlib.herokuapp.com";
@@ -122,7 +122,7 @@ $wgGroupPermissions['*']['read'] = false;
 
 ## Default skin: you can change the default skin. Use the internal symbolic
 ## names, ie 'vector', 'monobook':
-$wgDefaultSkin = "timeless";
+$wgDefaultSkin = "Timeless";
 
 # End of automatically generated settings.
 # Add more configuration options below.
