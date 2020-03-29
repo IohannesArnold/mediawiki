@@ -118,7 +118,6 @@ $wgDiff3 = "/usr/bin/diff3";
 # The following permissions were set based on your choice in the installer
 $wgGroupPermissions['*']['createaccount'] = false;
 $wgGroupPermissions['*']['edit'] = false;
-$wgGroupPermissions['*']['read'] = false;
 
 ## Default skin: you can change the default skin. Use the internal symbolic
 ## names, ie 'vector', 'monobook':
@@ -131,4 +130,5 @@ wfLoadSkin( 'Timeless' );
 
 # End of automatically generated settings.
 # Add more configuration options below.
+enableSemantics( 'lexlatlib.herokuapp.com' );
 
