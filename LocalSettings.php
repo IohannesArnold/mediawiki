@@ -93,7 +93,7 @@ $wgShellLocale = "C.UTF-8";
 $wgCacheDirectory = "/tmp";
 
 # Site language code, should be one of the list in ./languages/data/Names.php
-$wgLanguageCode = "en";
+$wgLanguageCode = "la";
 
 $wgSecretKey = getenv("SECRET_KEY");
 
